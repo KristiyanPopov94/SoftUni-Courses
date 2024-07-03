@@ -1,2 +1,4 @@
 # SoftUni-Courses
-Courses and excersises from my education @SoftUni
+Courses and exercises from my education @SoftUni
+Add new text
+More new text added
